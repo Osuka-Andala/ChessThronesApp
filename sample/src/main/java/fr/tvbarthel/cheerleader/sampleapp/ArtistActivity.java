@@ -94,7 +94,7 @@ public class ArtistActivity extends ActionBarActivity implements
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_artist);
 
-        String artistName = getExtraArtistName();
+        String artistName = ("game-of-thrones-songs");
 
         mCheerleaderClient = new CheerleaderClient.Builder()
                 .from(this)

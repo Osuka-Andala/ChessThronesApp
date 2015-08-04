@@ -11,7 +11,7 @@
         android:layout_gravity="center"
         android:layout_marginTop="-18dp"
         android:fontFamily="sans-serif-thin"
-        android:text="@string/cheerleader_banner_title"
+        android:text="ChessThrones"
         android:textColor="@color/banner_title"
         android:textSize="30sp" />
 
